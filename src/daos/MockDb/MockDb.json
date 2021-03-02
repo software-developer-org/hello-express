@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "name": "Sean Maxwell",
-      "email": "sean.maxwell@gmail.com",
+      "name": "Christian Kluge",
+      "email": "christian.kluge@software-developer.org",
       "id": 159123164363
     },
     {
-      "name": "Gordan Freeman",
-      "email": "gordan.freeman@halflife.com",
+      "name": "Rouven Gonzalez",
+      "email": "rouven.gonzalez@software-developer.org",
       "id": 906524522143
     },
     {
-      "name": "John Smith",
-      "email": "jsmith@yahoo.com",
+      "name": "Tai Truong",
+      "email": "tai.truong@software-developer.org",
       "id": 357437875835
     }
   ]
