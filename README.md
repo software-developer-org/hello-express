@@ -12,7 +12,7 @@ Checkout for more here: [express-generator-typescript](https://www.npmjs.com/pac
 # Deploy
 
 ```bash
-$ gcloud deploy app
+$ gcloud app deploy
 Services to deploy:
 
 descriptor:      [/home/ttruong/data/development/hello-express/app.yaml]
